@@ -114,7 +114,7 @@
                     <manifest>
                         <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
                         <addClasspath>true</addClasspath>
-                        <mainClass>com.example.MainClass</mainClass>
+                        <mainClass>com.semicolon.devOps.Main</mainClass>
                     </manifest>
                 </archive>
             </configuration>
